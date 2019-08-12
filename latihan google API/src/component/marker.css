@@ -1,0 +1,19 @@
+.marker {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: lightblue;
+    width: 50px;
+    text-align: center;
+    font-size:  14px;
+}
+
+.dipilih {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: yellow;
+    width: 50px;
+    text-align: center;
+    font-size: 14px;
+}
